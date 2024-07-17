@@ -1,11 +1,18 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    margin top: 300px;
+}
+
 form{
     width: 400px;
     border: 1px solid #dedede;
+    
 }
 form label{
     display: block;
 }
 form input{
-    width: 100%;
+    width: 390px;
     display: block;
 }
